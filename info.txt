@@ -1,0 +1,48 @@
+for start: 
+1- start vscode ---> npm run ourserver
+2- start docker compose
+3- start mongoDB compass ----> with url:mongodb://root:root@localhost:27017/
+4-open http://localhost:3000/
+
+
+...................
+npm init -y
+
+npm i express
+
+install Docker Desktop
+
+problem with docker?
+https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+
+docker compose up -d
+docker compose stop
+docker compose start
+
+install MongoDB Compass
+
+mongodb://root:root@localhost:27017/
+
+npm i mongodb
+
+npm i nodemon
+
+npm i ejs
+
+npm i react react-dom @babel/core @babel/preset-react babel-loader webpack webpack-cli webpack-node-externals npm-run-all
+
+
+install extention: EJS language support
+
+in setting.json file in setting:
+"files.associations": {
+        "*.js": "javascriptreact"
+    }
+
+npm i axios
+
+npm i multer
+
+npm i senitize-html
+
+npm i fs-extra sharp
